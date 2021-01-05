@@ -3,7 +3,7 @@ This code can be used as a baseline to sumbit a lite training method to the [Har
 
 The code above contains a training file where a model will be trained and saved, a test file where the trained model will be loaded and tested and an evaluation script that runs training programme during 10 minutes, and then runs test.
 
-# COmpetition Rules
+# Competition Rules
 
 The competition consists of two steps. An open step where contestants can train and test their methods on a public dataset such as CIFAR10/CIFAR100, and an evaluation step where we will test proposed methods on a nonpublic dataset. Contestants should propose a lite training solution that accelerates the training process while reaching a good accuracy. The evaluation will be performed on a 10 classes nonpublic dataset composed of 32 by 32 RGB 500 training images and 100 testing images per class (it is not CIFAR10 or CIFAR100). Contestants are invited to use CIFAR10/CIFAR100 to test their methods. We provide a code that contains a dataloader, training and test program and a script that stops training after 10 minutes and performs the test.
 
