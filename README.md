@@ -31,8 +31,8 @@ Methods will be ranked according to the accuracy they achieve after 10 minutes o
 
 # Dates
 
-- Competition submission deadline: 30 Mai 2022.
-- Evaluations will be performed by: 10 June 2022.
+- Competition submission deadline: 30 May 2022 (11:59 pm UTC-11).
+- Evaluations will be performed by: 10 June 2022 (11:59 pm UTC-11).
 - Workshop: 23 Jully 2022.
 
 
