@@ -1,4 +1,4 @@
-# HAET-2021-competition-baseline-code
+# HAET-2022-competition-baseline-code
 This code can be used as a baseline to sumbit a lite training method to the [Hardware Aware Efficient Training ICLR workshop competition](https://haet2021.github.io/cfp). 
 
 The code above contains a training file where a model will be trained and saved and a test file where the trained model will be loaded and tested.
